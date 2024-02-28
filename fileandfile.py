@@ -176,7 +176,7 @@ if __name__ == '__main__':
         print(f"usage: {sys.argv[0]} [file A] [file B]")
         print("""
 Navigation:
-w a s d            - cursor move
+h j k l            - cursor move
 up down left right - scroll document
 q                  - exit
 r                  - change file
